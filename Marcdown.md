@@ -13,6 +13,9 @@ For exemple: _diferent variant **frame** text_.
 
 ## Work with paints
 
+To paste images in text, need wright this:
+![Work Progect](Work.jpeg)
+
 ## Links
 
 ## Tables
